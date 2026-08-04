@@ -39,7 +39,6 @@ zip -r backend-dev-guide.zip backend-dev-guide/ ~/.workbuddy/skills/backend-dev-
 # 先下载并打包
 git clone https://github.com/genapohub/backend-dev-guide.git
 zip -r backend-dev-guide.zip backend-dev-guide/
-zip -r backend-dev-guide.zip backend-dev-guide/
 ```
 然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
 
