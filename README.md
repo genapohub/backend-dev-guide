@@ -73,20 +73,6 @@ git clone https://github.com/genapohub/backend-dev-guide.git ~/.cursor/skills-cu
 从单体迁移到微服务，出个架构升级方案
 ```
 
----
-
-## 目录结构
-
-```
-backend-dev-guide/
-├── SKILL.md                  # 主指令
-├── README.md
-├── LICENSE
-├── .gitignore
-└── references/
-    └── 后端开发方法论.md       # 详细方法论
-```
-
 ## 许可
 
 [MIT](LICENSE) © zhangmengbo
