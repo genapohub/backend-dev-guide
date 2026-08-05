@@ -29,9 +29,7 @@
 
 **方式一：克隆到 skills 目录**
 ```bash
-# 克隆到 workbuddy skill 目录（全局可用）
-git clone https://github.com/genapohub/backend-dev-guide.git
-zip -r backend-dev-guide.zip backend-dev-guide/ ~/.workbuddy/skills/backend-dev-guide
+git clone https://github.com/genapohub/backend-dev-guide.git ~/.workbuddy/skills/backend-dev-guide
 ```
 
 **方式二：ZIP导入**
@@ -56,12 +54,10 @@ zip -r backend-dev-guide.zip backend-dev-guide/
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/backend-dev-guide.git
-zip -r backend-dev-guide.zip backend-dev-guide/ ~/.codex/skills/backend-dev-guide
+git clone https://github.com/genapohub/backend-dev-guide.git ~/.codex/skills/backend-dev-guide
 
 # 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/backend-dev-guide.git
-zip -r backend-dev-guide.zip backend-dev-guide/ ~/.cc-switch/skills/backend-dev-guide
+git clone https://github.com/genapohub/backend-dev-guide.git ~/.cc-switch/skills/backend-dev-guide
 ```
 
 重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$backend-dev-guide` 手动调用。
@@ -69,8 +65,7 @@ zip -r backend-dev-guide.zip backend-dev-guide/ ~/.cc-switch/skills/backend-dev-
 ### Cursor
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/backend-dev-guide.git
-zip -r backend-dev-guide.zip backend-dev-guide/ ~/.cursor/skills-cursor/backend-dev-guide
+git clone https://github.com/genapohub/backend-dev-guide.git ~/.cursor/skills-cursor/backend-dev-guide
 ```
 
 重启 Cursor客户端 后自动发现。也可以在对话中输入 `$backend-dev-guide` 手动调用。
