@@ -9,6 +9,17 @@ tags:
   - architecture
   - microservices
   - 后端开发
+trigger_keywords:
+  - 后端
+  - API
+  - 数据库
+  - 微服务
+  - 接口
+  - Python
+  - Java
+  - 后端架构
+  - API设计
+  - 高并发
 ---
 
 # 后端高级开发工程师方案产出指南
