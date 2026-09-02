@@ -42,17 +42,17 @@ zip -r backend-dev-guide.zip backend-dev-guide/
 ```
 然后在 Trae → **设置** → **Rules & Skills** → **创建** → 上传 `backend-dev-guide.zip`。
 
-### Codex
+### Codex / ZCode
 
 ```bash
 # 克隆到 skills 目录
 git clone https://github.com/genapohub/backend-dev-guide.git ~/.codex/skills/backend-dev-guide
 
-# 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/backend-dev-guide.git ~/.cc-switch/skills/backend-dev-guide
+# ZCode
+git clone https://github.com/genapohub/backend-dev-guide.git ~/.zcode/skills/backend-dev-guide
 ```
 
-若选 CC Switch 克隆后需在cc switch客户端-技能中心里导入技能，选中Codex等工具，重启Codex客户端后在对话中输入 $backend-dev-guide 手动调用。
+重启 Codex / ZCode 客户端后自动发现。也可以在对话中输入 `$backend-dev-guide` 手动调用。
 
 ### Cursor
 ```bash
