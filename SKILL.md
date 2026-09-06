@@ -93,6 +93,7 @@ trigger_keywords:
 > - Python 生态技术栈设计阶段 → 读 `references/expert-distill/python-fullstack-蒸馏.md`（技术栈选型速查 / 分层工程模板 / 质量基线）
 > - 代码实现/写码执行阶段 → 读 `references/expert-distill/senior-developer-蒸馏.md`（吴八哥：≤10 行任务计划 / 写验报增量循环 / 错误恢复 / 输出规范）
 > - 代码质量硬规范与交付前自检 → 读 `references/expert-distill/mvp-backend-蒸馏.md`（贝洛奇：文件组织硬规则 ≤300 行+入口只装配+门禁命令 / 每端点 checklist / 缓存键设计 / **失效模式 6 类自检**——AI 生成代码的验收尺子）
+> - 后端涉及 AI/ML 功能落地 → 读 `references/expert-distill/ai-engineer-蒸馏.md`（深网网：推理四模式选型/模型生产化生命周期/AI 伦理安全基线/量化指标）
 
 产出要求：
 - 架构图使用 Mermaid 或 ASCII 描述（C4模型：Context→Container→Component）
