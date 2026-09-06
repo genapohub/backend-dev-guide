@@ -90,8 +90,9 @@ trigger_keywords:
 读取 `references/后端开发方法论.md` 中对应场景的章节，按场景获取必备产出清单。
 
 > **专家蒸馏增量（2026-09-06 并入）**：
-> - Python 生态技术栈设计阶段 → 读 `references/expert-distill/python-fullstack-蒸馏.md`（技术栈选型速查 / 分层工程模板 api→services→repositories→models / 质量基线 / 输出验收规范）
-> - 代码实现/写码执行阶段 → 读 `references/expert-distill/senior-developer-蒸馏.md`（吴八哥：≤10 行任务计划 / 写验报增量循环 / 代码自检 7 项 / 错误恢复"定位根因一次修好" / 输出规范）
+> - Python 生态技术栈设计阶段 → 读 `references/expert-distill/python-fullstack-蒸馏.md`（技术栈选型速查 / 分层工程模板 / 质量基线）
+> - 代码实现/写码执行阶段 → 读 `references/expert-distill/senior-developer-蒸馏.md`（吴八哥：≤10 行任务计划 / 写验报增量循环 / 错误恢复 / 输出规范）
+> - 代码质量硬规范与交付前自检 → 读 `references/expert-distill/mvp-backend-蒸馏.md`（贝洛奇：文件组织硬规则 ≤300 行+入口只装配+门禁命令 / 每端点 checklist / 缓存键设计 / **失效模式 6 类自检**——AI 生成代码的验收尺子）
 
 产出要求：
 - 架构图使用 Mermaid 或 ASCII 描述（C4模型：Context→Container→Component）
