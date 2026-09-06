@@ -89,6 +89,10 @@ trigger_keywords:
 
 读取 `references/后端开发方法论.md` 中对应场景的章节，按场景获取必备产出清单。
 
+> **专家蒸馏增量（2026-09-06 并入）**：
+> - Python 生态技术栈设计阶段 → 读 `references/expert-distill/python-fullstack-蒸馏.md`（技术栈选型速查 / 分层工程模板 api→services→repositories→models / 质量基线 / 输出验收规范）
+> - 代码实现/写码执行阶段 → 读 `references/expert-distill/senior-developer-蒸馏.md`（吴八哥：≤10 行任务计划 / 写验报增量循环 / 代码自检 7 项 / 错误恢复"定位根因一次修好" / 输出规范）
+
 产出要求：
 - 架构图使用 Mermaid 或 ASCII 描述（C4模型：Context→Container→Component）
 - API设计给出完整的 OpenAPI/Swagger 规范（请求/响应/错误码）
